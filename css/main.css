@@ -132,6 +132,11 @@ p {
     padding: 10%;
 }
 
+img {
+    border-radius: 20px;
+    max-width: 100%;
+}
+
 #code img {
     max-width: 100%;
     border-radius: 20px;
